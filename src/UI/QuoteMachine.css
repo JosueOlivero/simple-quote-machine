@@ -1,4 +1,8 @@
 
+html {
+    background-color: cornflowerblue;
+}
+
 .container {
     display: flex;
     margin-top: 15%;
@@ -22,6 +26,7 @@
 }
 
 .btn {
-    width: 50%;
+    width: 13%;
     margin-top: 20px;
+    font-size: 20px;
 }
